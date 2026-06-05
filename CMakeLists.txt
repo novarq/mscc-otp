@@ -1,7 +1,7 @@
 # Copyright (c) 2022 Microchip Technology Inc. and its subsidiaries.
 # SPDX-License-Identifier: (GPL-2.0)
 
-cmake_minimum_required(VERSION 2.6)
+cmake_minimum_required(VERSION 3.5)
 project (otp C)
 
 SET(VER "0.1")
